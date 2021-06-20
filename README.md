@@ -4,4 +4,4 @@ Data source : https://drive.google.com/file/d/1UThfJKJFvDgTu263DNbz-WPNLqoARZ_0/
 
 Use the .en or .np. to csv translator script available in this repositories  to convert all of the files into csv file or simply download the csv files. 
 
-In data '.en' represents the English corpus and '.np' represents the Nepalese corpus
+In data '.en' represents the English corpus and '.np' represents the Nepalese corpus. 
